@@ -12,7 +12,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML5, CSS3  
+- **Frontend:** HTML5, CSS3, React.js  
 - **Backend:** Node.js, Express.js  
 - **Tools:** VS Code, npm
 
